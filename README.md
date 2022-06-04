@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andrii
+- 👋 Hi, I’m Andrii
 - I am looking for interesting projects for listing on the KickEx exchange.
 - You can get acquainted with the project and leave a request in the telegram bot https://t.me/KickExListing_Bot
 - Also send your application and questions to managerlisting1@gmail.com
